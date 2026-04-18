@@ -1,3 +1,4 @@
-I'm trying to learn python with creating a project with my favourite game .
-i'm trying to create a calculator that count if an item is worth it to farm using the drop rate with the price (working with all the languages )
-that it 
+I'm trying to learn Python by creating a project based on my favorite game.
+I'm trying to create a calculator that determines whether an item is worth farming, based on its drop rate and price.
+
+(Blizzard blocked the API, so I can't work on it for now.)
